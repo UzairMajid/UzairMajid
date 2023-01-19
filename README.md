@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @UzairMajid
 - 👀 I’m interested in Machine learning, Deep Learning, NLP, Computer Vision....
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on CV, NLP, Data Analysis
 - 📫 uzair.majid@tu-dortmund.de
 
